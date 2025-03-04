@@ -37,6 +37,6 @@ Your AI friends will automatically be granted operator permissions when they joi
 ## Terms of use
 This software is free to use in conjunction with the Player2 service. 
 
-## Licensing
+## License
 Copyright (c) 2025 Elefant AI Inc.
 All rights reserved.
