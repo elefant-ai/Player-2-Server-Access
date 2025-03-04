@@ -24,6 +24,7 @@ This means you can have AI friends join your secure server without compromising 
 
 ## Technical explanation of how it works
 The mod works by adding a listener for a custom authentication packet. The packet is sent by the AI Friend to any server where the version sent in the SLP contains `(Player 2 Supported)`
+
 The packet contains the following information:
 - Username
 - Signed username, using the AI Friend's private key
