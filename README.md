@@ -1,5 +1,8 @@
 # Player 2 Server Access
 
+## [Download](https://github.com/elefant-ai/Player-2-Server-Access/releases/latest)
+
+
 ## Overview
 
 This mod allows Official Player2 AI Friends to bypass Minecraft authentication while keeping your server in online mode. 
